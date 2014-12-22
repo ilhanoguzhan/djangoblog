@@ -62,6 +62,7 @@ textile==2.1.5
 unity-lens-photos==1.0
 urllib3==1.7.1
 vboxapi==1.0
+virtualenv==1.11.4
 wsgiref==0.1.2
 xdiagnose==3.6.3build2
 zope.interface==4.0.5
