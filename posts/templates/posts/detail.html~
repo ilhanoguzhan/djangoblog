@@ -1,0 +1,6 @@
+{% extends 'posts/base.html' %}
+{% block title %}{{ post.post_text }}{% endblock %}
+
+{% block content %}
+<h1>{{ post.content }}</h1>
+{% endblock %}
